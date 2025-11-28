@@ -1,8 +1,14 @@
 Part, Use, Cost, Link, Notes
 Drive Motors, To drive the robot, $14.40 x 2 = $28.80, https://turnabot.com/products/high-power-n10?variant=40382319231041, N/A
-ESCs, To control the drive motors, $28, https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo, Includes Reciever
-Weapon Motor, To spin the weapon, $20, https://turnabot.com/products/planetary-gearbox-high-power-n10-n20-and-n30-motors?variant=42952334671937, N/A
+Drive ESC and reciever, To control the drive motors and to get controls from the transmitter, $28, https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo, Includes Reciever
+Weapon Motor, To spin the weapon, $15, https://palmbeachbots.com/products/d2822-brushless-outrunner-1800kv-4mm-shaft-viper-compatible?variant=42395848343734&currency=USD&utm_source=chatgpt.com, N/A
 Switch, Most comps require this, $2, https://turnabot.com/products/switch, N/A
 Wheels, This is the wheels that will connect to the motor, $5, https://turnabot.com/products/turnabot-turbo-torque-wheels-1-pair, N/A
 Tires, The thing that grips to the floor, $2, https://turnabot.com/products/30-4mm-high-grip-rubber-tire?pr_prod_strat=jac&pr_rec_id=d34f73f0a&pr_rec_pid=7553675788353&pr_ref_pid=7469021200449&pr_seq=uniform, N/A
 Battery, It powers the robot, $12.49, http://turnabot.com/products/turnigy-2s-300mah-lipo, N/A
+Weapon, The thing that does damage, $30, https://www.fingertechrobotics.com/proddetail.php?prod=ft-5.5in-ftr-bar-ti, N/A
+Weapon Mount, to connect the weapon to the weapon motor, $9, https://www.fingertechrobotics.com/proddetail.php?prod=ft-blade-mount, N/A
+Weapon ESC, To control the weapon speed, $14, https://palmbeachbots.com/products/ready-to-sky-35a-brushless-esc-with-3-5mm-bullet-connectors?_pos=16&_sid=655cb7b1b&_ss=r, N/A
+Total cost, N/A, ~160, N/A, N/A
+
+
